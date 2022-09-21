@@ -1,0 +1,121 @@
+﻿///$tab Main
+SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyThousandSep=',';
+SET MoneyDecimalSep='.';
+SET MoneyFormat='$#,##0.00;-$#,##0.00';
+SET TimeFormat='h:mm:ss TT';
+SET DateFormat='M/D/YYYY';
+SET TimestampFormat='M/D/YYYY h:mm:ss[.fff] TT';
+SET FirstWeekDay=6;
+SET BrokenWeeks=1;
+SET ReferenceDay=0;
+SET FirstMonthOfYear=1;
+SET CollationLocale='en-US';
+SET MonthNames='Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec';
+SET LongMonthNames='January;February;March;April;May;June;July;August;September;October;November;December';
+SET DayNames='Mon;Tue;Wed;Thu;Fri;Sat;Sun';
+SET LongDayNames='Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday';
+///$tab Currencies
+Currencies:
+LOAD CurrencyKey, 
+     CurrencyAlternateKey, 
+     CurrencyName
+FROM
+[C:\Users\user\Desktop\UNSS\Q\QlikView\test\Currencies.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+///$tab GeoData
+GeoData:
+LOAD GeoKey, 
+     City, 
+     StateProvinceCode, 
+     StateProvinceName, 
+     CountryRegionCode, 
+     EnglishCountryRegionName, 
+     SpanishCountryRegionName, 
+     FrenchCountryRegionName, 
+     PostalCode, 
+     IpAddressLocator
+FROM
+[C:\Users\user\Desktop\UNSS\Q\QlikView\test\GeoData.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+///$tab Orders
+Orders:
+LOAD ProductKey as Product, 
+     Target_ID, 
+     OrderDateKey, 
+     DueDateKey, 
+     ShipDateKey, 
+     ResellerKey, 
+     EmployeeKey, 
+     PromotionKey, 
+     Currency as CurrencyKey, 
+     Territory, 
+     SalesOrderNumber, 
+     SalesOrderLineNumber, 
+     RevisionNumber, 
+     OrderQuantity, 
+     UnitPrice, 
+     ExtendedAmount, 
+     UnitPriceDiscountPct, 
+     DiscountAmount, 
+     ProductStandardCost, 
+     TotalProductCost, 
+     SalesAmount, 
+     TaxAmt, 
+     Freight, 
+     CarrierTrackingNumber, 
+     CustomerPONumber, 
+     OrderDate,
+     Year (OrderDate) as Year,
+     Month (OrderDate) as Month, 
+     DueDate, 
+     ShipDate
+FROM
+[C:\Users\user\Desktop\UNSS\Q\QlikView\test\Orders.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+///$tab Products
+Products:
+LOAD ProductSubcategoryKey, 
+     StandardCost, 
+     Color, 
+     Product, 
+     ListPrice, 
+     Size, 
+     SizeRange, 
+     Weight, 
+     ProductLine, 
+     Style, 
+     ModelName, 
+     Status
+FROM
+[C:\Users\user\Desktop\UNSS\Q\QlikView\test\Products.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
+///$tab Resellers
+Resellers:
+LOAD Phone, 
+     BusinessType, 
+     ResellerName, 
+     NumberEmployees, 
+     OrderFrequency, 
+     OrderMonth, 
+     FirstOrderYear, 
+     Reseller as ResellerKey, 
+     GeographyKey as GeoKey, 
+     LastOrderYear, 
+     AddressLine1, 
+     AddressLine2, 
+     AnnualSales, 
+     BankName, 
+     MinPaymentType, 
+     MinPaymentAmount, 
+     AnnualRevenue, 
+     YearOpened
+FROM
+[C:\Users\user\Desktop\UNSS\Q\QlikView\test\Resellers.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
