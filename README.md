@@ -9,13 +9,6 @@ The use of the application is supposed to lead to better business decisions base
 
 The developed BI application strives to achieve the above-mentioned results using various methods such as visualizing the data, analyzing the data by performing mathematical operations on data sets to gather new insights and creating interactive dashboards for management that can be used to monitor KPIs.
 
-<p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/MainDashboard.PNG" width="800" height="400" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Products.PNG" width="800" height="400" />
-</p>
 
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Tables.PNG" width="800" height="400" />
