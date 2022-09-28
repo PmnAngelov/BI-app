@@ -14,11 +14,11 @@ The developed BI application strives to achieve the above-mentioned results usin
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Products.PNG" />
+<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Products.PNG" width="800" height="400" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Tables.PNG" />
+<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Tables.PNG" width="800" height="400" />
 </p>
 
 
