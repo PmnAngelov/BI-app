@@ -1,5 +1,5 @@
 # BI-app
-BI app, made in QlikView, for creating different bussines analyses by integrating the gathered data and visualizing it, using interactive KPIs and Dashboards.
+BI app, made in QlikView, for creating different bussines analyses by integrating the gathered data, performing statistical analysis to gather new insights and visualizing it by creating interactive dashboards that can be used to monitor KPIs. The use of the application is supposed to lead to better business decisions based on data and statistics.
 
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Overall.png" />
