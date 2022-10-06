@@ -16,14 +16,12 @@ The developed BI application strives to achieve the above-mentioned results usin
 
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/MainDashboard.png" />
-</p>
+<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/MainDashboard.PNG " />
 </p>
 
 
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Products.png" />
-</p>
 </p>
 
 <p align="center">
