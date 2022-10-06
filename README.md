@@ -28,6 +28,13 @@ The developed BI application strives to achieve the above-mentioned results usin
 <img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Resellers.PNG" />
 </p>
 
+<p align="center">
+<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Data.png" />
+</p>
+
+
+
+
 
 
 
