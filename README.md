@@ -21,7 +21,7 @@ The developed BI application strives to achieve the above-mentioned results usin
 
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Products.png" />
+<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Products.PNG" />
 </p>
 
 <p align="center">
