@@ -1,4 +1,4 @@
-# BI-app
+# BI-app - QlikView
 BI app, made in QlikView. The company's data, presented in the form of visualizations, allows the organization to monitor logistics, sales and productivity.
 
 <p align="center">
