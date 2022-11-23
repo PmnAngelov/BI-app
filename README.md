@@ -1,5 +1,5 @@
 # BI-app - QlikView
-BI app, made in QlikView. The company's data, presented in the form of visualizations, allows the organization to monitor logistics, sales and productivity.
+Bussines intelligence app made in QlikView, utilisng business analytics, data visualization and data tools and modeling with the purpose of helping the organization make more data-driven decisions. The company's data, presented in the form of visualizations, allows the organization to monitor logistics, sales and productivity.
 
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Overall.png" />
