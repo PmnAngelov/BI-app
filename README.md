@@ -1,13 +1,12 @@
-# BI-app
-BI app, made in QlikView, for creating different bussines analyses by integrating the gathered data, performing statistical analysis to gather new insights and visualizing it by creating interactive dashboards that can be used to monitor KPIs. The use of the application is supposed to lead to better business decisions based on data and statistics.
+# BI-app - QlikView
+BI app, made in QlikView. The company's data, presented in the form of visualizations, allows the organization to monitor logistics, sales and productivity.
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Overall2.png" />
+<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Overall.png" />
 </p>
 
-The use of the application is supposed to lead to better business decisions based on data and statistics, easier viewing and understanding of the data collected by the organization and an overall improved methodology of work related to management and decision-making. 
 
-The developed BI application strives to achieve the above-mentioned results using various methods such as visualizing the data, analyzing the data by performing mathematical operations on data sets to gather new insights and creating interactive dashboards for management that can be used to monitor KPIs.
+The developed BI application strives to improve the bussines performance by using various methods such as different visualizations, data analysis by performing statistical operations on the data sets to gather new insights and create interactive dashboards for management that can be used to monitor KPIs.
 
 
 <p align="center">
@@ -21,12 +20,16 @@ The developed BI application strives to achieve the above-mentioned results usin
 
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Products.png" />
+<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Products.PNG" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Resellers.png" />
+<img align="center" src="https://github.com/PmnAngelov/BI-app/blob/main/imgs/Resellers.PNG" />
 </p>
+
+
+
+
 
 
 
