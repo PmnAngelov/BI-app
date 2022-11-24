@@ -35,6 +35,10 @@ The tables defined in the QlikView script are called logical tables. QlikView ma
 </p>
 
 
+The company has a total of 60855 orders placed since its beginning and has generated $79,980,114.38 in revenue. They sold a total of 214378 items, with the largest order placed for 44 items and the smallest for 1 articul. The top five most active partners are also visible, being: Friendly Bike Shop, Sports Product Store, Ultimate Bake Shop, Metropolitan Equipment and Fitness Toy Store. Also pictured are the top five best selling items. Finally, it is also clearly visible that the company's revenues are increasing with each passing year, meaning that the company has taken the right direction of development. On the Resellers dashboard shown above, it can be seen that the top five most active partners are: Friendly Bike Shop, Sports Product Store, Ultimate Bake Shop, Metropolitan Equipment and Fitness Toy Store. The most sales are dony by Warehouse businesses, followed by Specialty Bike Shop businesses and finally, Value Added Reseller businesses. The block graph shows that the United States of America (US) is the largest market for the company, followed by Canada (CA), Germany (DE), Great Britain (GB), France (FR) and finally Australia (AU).
+
+
+
 
 
 
