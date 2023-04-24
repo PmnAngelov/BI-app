@@ -8,7 +8,7 @@ Bussines intelligence app made in QlikView, utilisng business analytics, data vi
 
 The developed BI application strives to improve the bussines performance by using various methods such as different visualizations, data analysis by performing statistical operations on the data sets to gather new insights and create interactive dashboards for management that can be used to monitor KPIs.
 
-In order to load the company's into the QlikView application, a new QlikView document is created in which the data specified by the company will be loaded and the user interface will be developed. The data is loaded after opening the Script Editor, creating a new tab, renaming it with the appropriate name and finally selecting an ODBC (Open Database Connectivity) type database, for a locally located source of data. After loading all five data sources, the data model output is as follows:
+In order to load the company's into the QlikView application, a new QlikView document is created in which the data specified by the company will be loaded and the user interface will be developed. The data is loaded after opening the Script Editor, creating a new tab, renaming it with the appropriate name and finally selecting an ```ODBC (Open Database Connectivity)``` type database, for a locally located source of data. After loading all five data sources, the data model output is as follows:
 
 <p align="center">
 <img align="center" src="https://github.com/PmnAngelov/BI-app-QlikView/blob/main/imgs/FirstDataModel.PNG" width="800" height="400" />
